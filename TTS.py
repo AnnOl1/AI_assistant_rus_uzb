@@ -4,9 +4,9 @@ import wave
 import threading
 import time
 from tkinter import messagebox
-import transcription_voice  # Импортируйте модуль для транскрипции
-import answers_to_questions  # Импортируйте модуль для создания ответов на вопросы
-import STT  # Импортируйте модуль для синтеза речи
+import transcription_voice  
+import answers_to_questions  
+import STT  
 
 class VoiceRecorderApp:
     def __init__(self, root, filename, language):
