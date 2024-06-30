@@ -1,0 +1,3 @@
+OPEN_AI = ''
+YANDEX = ''
+GOOGLE_GLOUD_JSON = ''
