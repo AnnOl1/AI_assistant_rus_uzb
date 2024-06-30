@@ -1,3 +1,4 @@
 # AI Assistant RUS-UZB
 
-![menu](https://drive.google.com/file/d/1pjTVpfEmXoQMdlv3k5sG4Xbi1XsJrfwC/view?usp=drive_link)
+Результаты для русского и узбекского языков:
+https://drive.google.com/drive/folders/1NR4D7hoZgnB_ep15Vd1y_eXcdeQGekdZ?usp=sharing
